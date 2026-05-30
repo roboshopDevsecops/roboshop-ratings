@@ -9,4 +9,4 @@ on:
 
 jobs:
   cicd:
-    uses: raghudevopsb88/github-reusable-workflows/.github/workflows/ci-b.yml@main
+    uses: roboshopDevsecops/github-reusable-workflows/.github/workflows/ci-b.yml@main
